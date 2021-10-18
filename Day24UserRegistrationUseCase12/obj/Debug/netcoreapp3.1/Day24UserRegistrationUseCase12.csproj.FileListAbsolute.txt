@@ -1,0 +1,14 @@
+C:\Day24\Day24UserRegistrationUseCase12\bin\Debug\netcoreapp3.1\Day24UserRegistrationUseCase12.exe
+C:\Day24\Day24UserRegistrationUseCase12\bin\Debug\netcoreapp3.1\Day24UserRegistrationUseCase12.deps.json
+C:\Day24\Day24UserRegistrationUseCase12\bin\Debug\netcoreapp3.1\Day24UserRegistrationUseCase12.runtimeconfig.json
+C:\Day24\Day24UserRegistrationUseCase12\bin\Debug\netcoreapp3.1\Day24UserRegistrationUseCase12.runtimeconfig.dev.json
+C:\Day24\Day24UserRegistrationUseCase12\bin\Debug\netcoreapp3.1\Day24UserRegistrationUseCase12.dll
+C:\Day24\Day24UserRegistrationUseCase12\bin\Debug\netcoreapp3.1\Day24UserRegistrationUseCase12.pdb
+C:\Day24\Day24UserRegistrationUseCase12\obj\Debug\netcoreapp3.1\Day24UserRegistrationUseCase12.csproj.AssemblyReference.cache
+C:\Day24\Day24UserRegistrationUseCase12\obj\Debug\netcoreapp3.1\Day24UserRegistrationUseCase12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day24\Day24UserRegistrationUseCase12\obj\Debug\netcoreapp3.1\Day24UserRegistrationUseCase12.AssemblyInfoInputs.cache
+C:\Day24\Day24UserRegistrationUseCase12\obj\Debug\netcoreapp3.1\Day24UserRegistrationUseCase12.AssemblyInfo.cs
+C:\Day24\Day24UserRegistrationUseCase12\obj\Debug\netcoreapp3.1\Day24UserRegistrationUseCase12.csproj.CoreCompileInputs.cache
+C:\Day24\Day24UserRegistrationUseCase12\obj\Debug\netcoreapp3.1\Day24UserRegistrationUseCase12.dll
+C:\Day24\Day24UserRegistrationUseCase12\obj\Debug\netcoreapp3.1\Day24UserRegistrationUseCase12.pdb
+C:\Day24\Day24UserRegistrationUseCase12\obj\Debug\netcoreapp3.1\Day24UserRegistrationUseCase12.genruntimeconfig.cache
